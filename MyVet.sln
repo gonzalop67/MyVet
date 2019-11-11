@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVet.Common", "MyVet.Common\MyVet.Common.csproj", "{EFB65C6C-3125-4EBD-9CFA-8C9C1B31584B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVet.Web", "MyVet.Web\MyVet.Web.csproj", "{FBBFF07C-CA92-4CD9-8267-A7FE68AEE667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB65C6C-3125-4EBD-9CFA-8C9C1B31584B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB65C6C-3125-4EBD-9CFA-8C9C1B31584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB65C6C-3125-4EBD-9CFA-8C9C1B31584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB65C6C-3125-4EBD-9CFA-8C9C1B31584B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBFF07C-CA92-4CD9-8267-A7FE68AEE667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFF07C-CA92-4CD9-8267-A7FE68AEE667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFF07C-CA92-4CD9-8267-A7FE68AEE667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFF07C-CA92-4CD9-8267-A7FE68AEE667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95347632-497C-4893-A303-868CB6F7230A}
+	EndGlobalSection
+EndGlobal
